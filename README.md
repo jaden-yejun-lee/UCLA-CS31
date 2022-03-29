@@ -1,5 +1,5 @@
 # UCLA-CS31
-These are the solutions to the UCLA CS31 Projects for Fall of 2021.
+These are my solutions to the UCLA CS31 Projects for Fall of 2021.
 
   Project 1: 100/100 
  
